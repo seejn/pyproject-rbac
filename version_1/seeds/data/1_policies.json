@@ -1,0 +1,46 @@
+{
+    "schema": "public",
+    "table_name": "policies",
+    "data":[
+        {
+            "policy_name": "create_user",
+            "category": "USER",
+            "action": "CREATE"
+        },
+        {
+            "policy_name": "update_user",
+            "category": "USER",
+            "action": "UPDATE"
+        },
+        {
+            "policy_name": "delete_user",
+            "category": "USER",
+            "action": "DELETE"
+        },
+        {
+            "policy_name": "read_user",
+            "category": "USER",
+            "action": "READ"
+        },
+        {
+            "policy_name": "create_superuser",
+            "category": "SUPERUSER",
+            "action": "CREATE"
+        },
+        {
+            "policy_name": "update_superuser",
+            "category": "SUPERUSER",
+            "action": "UPDATE"
+        },
+        {
+            "policy_name": "delete_superuser",
+            "category": "SUPERUSER",
+            "action": "DELETE"
+        },
+        {
+            "policy_name": "read_superuser",
+            "category": "SUPERUSER",
+            "action": "READ"
+        }
+    ]
+}

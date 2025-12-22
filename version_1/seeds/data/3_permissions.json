@@ -1,0 +1,10 @@
+{
+    "schema": "public",
+    "table_name": "permissions",
+    "data": [
+        {
+            "role": "SUPERUSER",
+            "policies": "*"
+        }
+    ]
+}

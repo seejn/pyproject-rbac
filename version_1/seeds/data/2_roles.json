@@ -1,0 +1,12 @@
+{
+    "schema": "public",
+    "table_name": "roles",
+    "data":[
+        {
+            "role": "SUPERUSER"
+        },
+        {
+            "role": "USER"
+        }
+    ]
+}
